@@ -17,3 +17,5 @@ PHP, HTML, Bootstrap, MySQL
 2. Import database from /database
 3. Place project in htdocs
 4. Run in browser
+=======
+# Agriculture-Management-System
