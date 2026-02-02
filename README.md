@@ -1,21 +1,21 @@
-# Agriculture Management System
+# 🌾 AgroCulture
 
-Web application connecting Farmers and Buyers.
+A smart agriculture management system connecting **Farmers** and **Buyers** through a simple digital marketplace.
 
-## Tech Stack
-PHP, HTML, Bootstrap, MySQL
+Built to reduce manual effort in agricultural trade by managing products, users, and transactions using a structured database system.
 
-## Features
-- Farmer & Buyer login
-- Product management
-- Cart system
-- Transactions
-- Database normalization
+## 🛠 Tech Stack
+PHP • MySQL • HTML • Bootstrap • XAMPP
 
-## How to Run
-1. Install XAMPP
-2. Import database from /database
-3. Place project in htdocs
-4. Run in browser
-=======
-# Agriculture-Management-System
+## 💡 Highlights
+- Farmer & Buyer modules  
+- Product listing and cart system  
+- Transaction tracking  
+- ER design & database normalization  
+
+## ▶️ Run Locally
+Import the database → Place project in `htdocs` → Start XAMPP → Open in browser.
+
+---
+
+*Technology meeting agriculture for a smarter future.*
